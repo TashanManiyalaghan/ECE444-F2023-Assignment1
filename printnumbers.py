@@ -1,5 +1,5 @@
-count = 10
+count = 20
 
-while count >= 0:
+while count >= -10:
     print(count)
     count-=1
