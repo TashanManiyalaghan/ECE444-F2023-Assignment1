@@ -6,3 +6,5 @@ I enjoy coding
 
 ### Testing headings
 Here is some text for testing
+Here is some text for testing
+And some more text
